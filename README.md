@@ -5,7 +5,7 @@ Tools Scan Subdomain With Simple Program Python.
 - **Dilarang Memperjual Belikan Tools ini**
 - _Salam Gretongers INDONESIA_
 ## Cara Menginstall
-- **Pertama Jalankan Kode Sekali Saja DiBawah Ini**
+- **Pertama Jalankan Sekali Saja Kode DiBawah Ini**
 ```
 pkg update && pkg upgrade
 pkg install python
